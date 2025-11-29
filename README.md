@@ -6,8 +6,6 @@
 
 <div align="center">
 
-🇬🇧 English • 🇩🇪 Deutsch
-
 </div>
 
 ---
