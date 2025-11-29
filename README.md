@@ -12,15 +12,15 @@
 
 ### 🇬🇧 CollectivAI Branding & Logo
 
-The CollectivAI name, logo and visual identity (the **“CollectivAI Marks”**) are protected.  
+The CollectivAI name, logo and visual identity (the **“CollectiVAI Marks”**) are protected.  
 All rights reserved.
 
 You **may**:
 
-- refer to the project by name (“CollectivAI”), and  
+- refer to the project by name (“CollectiVAI”), and  
 - use **unaltered screenshots** of the product or website in documentation, research, teaching or news coverage,  
 
-as long as it is clearly indicated that CollectivAI is the original source.
+as long as it is clearly indicated that CollectiVAI is the original source.
 
 You **may not**:
 
@@ -29,7 +29,7 @@ You **may not**:
 
 unless you have obtained prior **written permission**.
 
-© 2025 David Miecznikowski, CollectivAI.
+© 2025 David Miecznikowski, CollectiVAI.
 
 ---
 
@@ -40,16 +40,16 @@ Alle Rechte vorbehalten.
 
 Erlaubt ist:
 
-- die Nennung des Projekts („CollectivAI“), sowie  
+- die Nennung des Projekts („CollectiVAI“), sowie  
 - die Verwendung **unveränderter Screenshots** der Anwendung oder Website in Dokumentation, Forschung, Lehre oder Berichterstattung,  
 
-sofern deutlich erkennbar ist, dass CollectivAI die ursprüngliche Quelle ist.
+sofern deutlich erkennbar ist, dass CollectiVAI die ursprüngliche Quelle ist.
 
 Nicht erlaubt ist:
 
 - die Veränderung des Logos oder der visuellen Identität, oder  
-- eine Nutzung der CollectivAI-Marken in einer Weise, die eine Kooperation, Empfehlung oder offizielle Partnerschaft suggeriert,  
+- eine Nutzung der CollectiVAI-Marken in einer Weise, die eine Kooperation, Empfehlung oder offizielle Partnerschaft suggeriert,  
 
 es sei denn, es liegt eine vorherige **schriftliche Zustimmung** vor.
 
-© 2025 David Miecznikowski, CollectivAI.
+© 2025 David Miecznikowski, CollectiVAI.
