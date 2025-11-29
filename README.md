@@ -1,4 +1,18 @@
-## CollectivAI Branding & Logo
+## ⚖️ CollectivAI Branding & Logo / Marke & Logo
+
+<p align="center">
+  <img src="collectivai_logo_1_unified.png" alt="CollectivAI Logo" width="220">
+</p>
+
+<div align="center">
+
+🇬🇧 English • 🇩🇪 Deutsch
+
+</div>
+
+---
+
+### 🇬🇧 CollectivAI Branding & Logo
 
 The CollectivAI name, logo and visual identity (the **“CollectivAI Marks”**) are protected.  
 All rights reserved.
@@ -19,7 +33,9 @@ unless you have obtained prior **written permission**.
 
 © 2025 David Miecznikowski, CollectivAI.
 
-## CollectivAI Branding & Logo
+---
+
+### 🇩🇪 CollectivAI Branding & Logo
 
 Name, Logo und visuelle Identität von CollectivAI (die **„CollectivAI-Marken“**) sind geschützt.  
 Alle Rechte vorbehalten.
