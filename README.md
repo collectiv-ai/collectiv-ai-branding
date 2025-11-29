@@ -1,7 +1,7 @@
 ## ⚖️ CollectivAI Branding & Logo / Marke & Logo
 
 <p align="center">
-  <img src="collectivai_logo_1_unified.png" alt="CollectivAI Logo" width="220">
+  <img src="collectivai_logo_1_unified.png" alt="CollectivAI Logo" width="400">
 </p>
 
 <div align="center">
