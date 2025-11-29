@@ -10,9 +10,9 @@
 
 ---
 
-### 🇬🇧 CollectivAI Branding & Logo
+### 🇬🇧 CollectiVAI Branding & Logo
 
-The CollectivAI name, logo and visual identity (the **“CollectiVAI Marks”**) are protected.  
+The CollectiVAI name, logo and visual identity (the **“CollectiVAI Marks”**) are protected.  
 All rights reserved.
 
 You **may**:
@@ -33,9 +33,9 @@ unless you have obtained prior **written permission**.
 
 ---
 
-### 🇩🇪 CollectivAI Branding & Logo
+### 🇩🇪 CollectVAI Branding & Logo
 
-Name, Logo und visuelle Identität von CollectivAI (die **„CollectivAI-Marken“**) sind geschützt.  
+Name, Logo und visuelle Identität von CollectiVAI (die **„CollectivAI-Marken“**) sind geschützt.  
 Alle Rechte vorbehalten.
 
 Erlaubt ist:
