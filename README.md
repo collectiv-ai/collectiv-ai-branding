@@ -34,7 +34,7 @@ unless you have obtained prior written permission.
 
 If you are unsure whether your use is permitted, please **contact the project owner**.
 
-© 2025 David Miecznikowski, CollectiVAI.
+© 2025 David Compasso, CollectiVAI.
 
 ---
 
@@ -62,4 +62,4 @@ es sei denn, es liegt eine **vorherige schriftliche Zustimmung** vor.
 
 Bei Unsicherheit zur Nutzung bitte den Projektinhaber kontaktieren.
 
-© 2025 David Miecznikowski, CollectiVAI.
+© 2025 David Compasso, CollectiVAI.
