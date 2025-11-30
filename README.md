@@ -12,6 +12,20 @@
 
 ---
 
+## 🎨 Brand assets in this repository
+
+Typical files you may find here:
+
+- `collectivai_logo_1_unified.png` – primary logo for GitHub, docs and slides  
+- `logo-square.png` (optional) – square version for avatars or app icons  
+- `logo-dark-bg.png` (optional) – version optimised for dark backgrounds  
+- `brand-guide.pdf` / `styleguide.md` (optional) – guidelines for colours, spacing and usage
+
+If you are unsure which file to use, default to  
+**`collectivai_logo_1_unified.png` (primary logo)**.
+
+---
+
 ## 🇬🇧 CollectiVAI Branding & Logo
 
 The **CollectiVAI** name, logo and visual identity (the **“CollectiVAI Marks”**) are protected.  
